@@ -2,10 +2,10 @@
 
 Hi, I’m Demi 👋
 
-I’m developing programming and debugging skills through CS50 and hands-on projects, with a focus on troubleshooting and technical workflows.
+I’m developing programming skills through full-stack JS. In my Github you can find projects I am working on, and my daily challenges.
 
 💻 Projects:
 - Caesar Cipher (C)
 - Scrabble Scoring Program (C)
 
-📍 Bloomington, IN | Open to Relocation
+📍 Austin, TX| 
