@@ -5,9 +5,10 @@ Hi, I’m Demi 👋
 Full-stack JS. Emo music lover. In my Github you can find projects I am working on, and my daily challenges! 
 
 💻 Projects:
+-Pokemon Guessing Game
 - The Cozy Kitchen
 - MCR Albums Carousel (theres only 4.. not 5 yet!)
--Pokemon Guessing Game
+
 
 
 📍 Austin, TX 
