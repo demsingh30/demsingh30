@@ -2,7 +2,7 @@
 
 Hi, I'm Demi 👋
 
-Full-stack Web Developer. Emo music lover. In my GitHub you can find projects I'm working on!
+Full-stack Web Developer. Emo music lover. Frog lover. Dog Mom. In my GitHub you can find projects I'm working on!
 
 📍 Austin, TX
 
