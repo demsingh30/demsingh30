@@ -1,14 +1,17 @@
 ## Hi there! 👋
 
-Hi, I’m Demi 👋
+Hi, I'm Demi 👋
 
-Full-stack JS. Emo music lover. In my Github you can find projects I am working on, and my daily challenges! 
+Full-stack Web Developer. Emo music lover. In my GitHub you can find projects I'm working on!
 
-💻 Projects:
-- Pokemon Guessing Game
-- The Cozy Kitchen
-- MCR Albums Carousel (theres only 4.. not 5 yet!)
+📍 Austin, TX
 
+### 💻 Projects
+- **Frog Finder** 🐸: a CRUD app to log frog sightings. Live on Render. [link]
+- **Pokémon Guessing Game**: guess the Pokémon from a silhouette. Built with JavaScript and PokéAPI. 
+- **The Cozy Kitchen**: recipe site to keep all my recipes scattered to the 4 corners of the internet.
+- **MCR Albums Carousel**: each album era changes the music and background. (There are only 4... not 5 yet!) 
 
+### 🛠️ Tech
+HTML · CSS · JavaScript · Node · Express · MongoDB 
 
-📍 Austin, TX 
